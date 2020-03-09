@@ -1,6 +1,6 @@
-def first_challenge
-   epic_tragedy = {}
-end
+#def first_challenge
+#   epic_tragedy = {}
+#end
 
 epic_tragedy = {
   montagues: {
@@ -31,3 +31,4 @@ epic_tragedy = {
     }
   }
 }
+puts epic_tragedy
